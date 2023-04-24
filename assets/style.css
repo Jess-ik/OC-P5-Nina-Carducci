@@ -78,9 +78,9 @@ nav a:hover {
   width: 20px;
 }
 .carousel-inner img {
-	max-width: 100%;
-	height: auto;
-  }
+  max-width: 100%;
+  height: auto;
+}
 #about {
   background-color: #f6d2b8;
 }
@@ -111,7 +111,6 @@ nav a:hover {
 }
 #about-me .about-me__introduction {
   font-weight: 800;
-  width: 60%;
   font-size: 1rem;
   margin-bottom: 0.5rem;
 }
